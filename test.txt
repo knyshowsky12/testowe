@@ -1,3 +1,4 @@
 TESTOWY TEKST
 PIERWSZY COMMIT
 Drugi commit
+Trzeci commit
